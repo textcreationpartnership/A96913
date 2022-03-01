@@ -1,0 +1,1161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Word for God. Or A testimony on truths behalf; from several churches, and diverse hundreds of Christians in Wales (and some few adjacent) against wickednesse in high-places. With a letter to the Lord Generall Cromwell. Both, first presented to his own hands, and now published for further information.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96913</idno>
+            <idno type="STC">Wing W3539</idno>
+            <idno type="STC">Thomason E861_5</idno>
+            <idno type="STC">ESTC R206650</idno>
+            <idno type="EEBO-CITATION">99865766</idno>
+            <idno type="PROQUEST">99865766</idno>
+            <idno type="VID">168352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168352)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 130:E861[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Word for God. Or A testimony on truths behalf; from several churches, and diverse hundreds of Christians in Wales (and some few adjacent) against wickednesse in high-places. With a letter to the Lord Generall Cromwell. Both, first presented to his own hands, and now published for further information.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "December 3d 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Church and state --  Wales --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb n="1" facs="tcp:168352:1" rendition="simple:additions"/>
+            <head>A WORD FOR GOD. OR A <hi>Teſtimony on Truths behalf; from ſeveral</hi> Churches, and diverſe hundreds of Chriſtians in <hi>Wales</hi> (and ſome few adjacent) againſt Wickedneſſe in HIGH-PLACES. <hi>With a Letter to the Lord Generall</hi> CROMWELL.</head>
+            <head type="sub">Both, firſt preſented to his own hands, and now publiſhed for further Information.</head>
+            <q>
+               <bibl>
+                  <hi>Job 36.1.</hi>
+               </bibl>
+               <p>Suffer me a little, and I will ſhew thee that I have yet to ſpeak on Gods behalf.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Eſa. 44.8, 9.</hi>
+               </bibl>
+               <p>Fear ye not neither be afraid: have not I told thee from that time, and have declared it? ye are then my witneſſes. Is there a God be<g ref="char:EOLhyphen"/>ſides me? Yea there is no God, I know not any.</p>
+               <p>They that make a graven image are all of them vanity, and their delectable things ſhall not profit, and they are their own witneſſes, they ſee not, nor know, that they may be aſhamed.</p>
+            </q>
+         </div>
+         <div type="dedication">
+            <head>
+               <hi>To</hi> Oliver Cromwell <hi>Captain Generall of all the Forces in</hi> England, Scotland <hi>and</hi> Ireland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>FOr aſmuch as you have cauſed great ſearching of heart, and di<g ref="char:EOLhyphen"/>viſions among many of Gods People by a ſudden, ſtrange, and un<g ref="char:EOLhyphen"/>expected alteration of Government, and other actions to the great aſtoniſhment of thoſe who knew your former publick Reſolutions and Declarations; conſidering alſo, how (contrary to foregoing Acts and Engagements) you have taken upon you a Power by which you are utterly disinabled (if there were in you a heart) to proſe<g ref="char:EOLhyphen"/>cute the good things Covenanted and contended for, with ſo many great hazards, and the effuſion of ſo much precious blood: and by reaſon whereof you are become juſtly ſuſpected in your ends in time paſt, and actions for future to very many of thoſe, of whoſe affecti<g ref="char:EOLhyphen"/>ons and faithfull ſervices, you have enjoyed no ſmall ſhare, in all
+<pb n="2" facs="tcp:168352:2"/>the difficult paſſages and enterprizes of the late War. Theſe things conſidered by us, (as we know they are by many Churches &amp; Saints) and there being a deep ſence upon our Spirits of the <hi>Odium,</hi> under which the name of Chriſt, his Cauſe, People and wayes do lye (as it were) buried; and alſo of the exceeding contempt which the won<g ref="char:EOLhyphen"/>derfull and excellent operations of God are brought into; even thoſe eminent wonders, which the Nations have been Spectators and witneſſes of, and wherein your hands have been partly engaged; We cannot after much ſerious conſideration and ſeeking of the Lord, many of us, both together and a part, but preſent to your hands the enſuing teſtimony, w<hi rend="sup">ch</hi> (however you may look theron) is no more then neceſſity exacts from us, for the clearing of our own Souls from guilt and diſcharging of our duty to God &amp; men. Therefore we ear<g ref="char:EOLhyphen"/>neſtly wiſh you to peruſe and weigh it, as in the ſight of God, with a calm and Chriſtian like Spirit, and harden not your neck againſt the truth as you will anſwer it to the great judge, before whoſe impar<g ref="char:EOLhyphen"/>tial Tribunal you (as well as we ſhalbe very ſhortly cited to give an account of the things done in the body, whether good or evill. Where the true motives and ends of all your Actions will be evident, where no apologie will be accepted of, your ſlighting and blaſphem<g ref="char:EOLhyphen"/>ing of the Spirit of God, nor for the hard meaſure you give his peo<g ref="char:EOLhyphen"/>ple, by reproaches, impriſonment and other oppreſſions; and where Pride, Luxury, Laſciviouſneſſe, changing of Principles and forſaking the good wayes, juſtice and holineſſe will not have the ſmalleſt rag of pretence to hide them from the eyes of the Judge: Which things (whatſoever you ſay for your ſelf) are (even at preſent) to be read in your Fore head, and have produced moſt ſad effects every where. Eſpecially, firſt, The filling of the Saints hearts and faces with inex<g ref="char:EOLhyphen"/>preſſable grief and ſhame: And ſecondly, The ſtopping (at leaſt) of the ſtrong current of their Prayers, which was once for you; if not the turning thereof directly againſt you. To theſe we might adde (thirdly, The hardening of wicked men, yea the refreſhing and juſti<g ref="char:EOLhyphen"/>fying of them in their evill doings, and ſpeaking againſt the Goſpel, Name, and Spirit of our Lord Jeſus Chriſt. And laſtly, Gods ſignall withdrawing from you and your deſigns. Oh then! that you would<g ref="char:EOLunhyphen"/>ly down in the duſt &amp; acknowledge your iniquity, and return unto the Lord by unfeigned repentance, doing your firſt works, and that you would make haſt to do ſo, leaſt Gods fury break forth like fire upon you, and there be no quenching of it. This would rejoyce us much, as being reall welwiſhers to your ſouls everlaſting happineſſe, though we muſt declare with equall pity and deteſtation againſt your deſignes and way.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:168352:2"/>
+            <head>A Word for GOD.</head>
+            <p>THe wiſe God that teacheth the Fowls of Heaven to know their appointed times, who directs his peoples work in truth,<note place="margin">
+                  <hi>Ier.</hi> 8.7.</note> hath we hope directed us (after a long time of ſilence and earneſt ſeeking the Lord) to expreſſe and and declare what we find in our Conſciences touching the tranſactions of this ſeaſon; and though ſome may think (as we our ſelves have been tempted to think) that this is a time, wherein the prudent ſhould hold his peace, it being ſuch an evill time, that men are made offenders; yea, Traytors for words:<note place="margin">
+                  <hi>Ier.</hi> 20.9. <hi>Iſa.</hi> 62.6.</note> Yet conſi<g ref="char:EOLhyphen"/>dering how the Lords remembrancers ſhould not keep ſilence, and fearing that if we ſhould altogether hold our peace at ſuch a time as this (as <hi>Mordecay</hi> ſaid to <hi>He<g ref="char:EOLhyphen"/>ster</hi>) deliverance would come another way, and we could expect no ſhare in the en<g ref="char:EOLhyphen"/>largement of Gods people, or ſafety in the day of trouble:<note place="margin">
+                  <hi>Heſt.</hi> 4.14.</note> withall finding how ſelf would prompt us (like <hi>Iſſachar</hi>) to ſee that reſt is good, and outward proſperity plea<g ref="char:EOLhyphen"/>ſant,<note place="margin">
+                  <hi>Gen.</hi> 49.15.</note> and how the ſame temptations (which we finde and fear many of our deare Brethren to be under) have ſet upon ſome of us, as to have mens perſons in ad<g ref="char:EOLhyphen"/>miration becauſe of advantage, and by good words, faire ſpeeches and promiſes, to be deceived and drawn away in ſimplicity;<note place="margin">Iude <hi>16.</hi> Rom. <hi>16.8.2</hi> Sam. <hi>15.7.</hi> Gal. <hi>2.13.1</hi> Chro. <hi>4.23.</hi>
+               </note> eſpecially, by the example of ſome eminent men (like <hi>Peter</hi>) in ſo much that many <hi>Barnabaſſes</hi> are carried away with their diſſimulation, and as well Miniſters as Military men willing to ſerve the King for his Work and Wages. However ſeeing every man muſt give an account unto God for himſelf; we have examined what particular duty was incumbent upon us, and how in faithfulneſſe towards God and meekneſſe towards men, we ſhould per<g ref="char:EOLhyphen"/>form the ſame:<note place="margin">
+                  <hi>Rom.</hi> 14.12</note> Moreover conſidering how the Saints did formerly bear their Te<g ref="char:EOLhyphen"/>ſtimony (not loving their lives unto the death) and by the blood of the Lamb, and their teſtimony did overcome;<note place="margin">
+                  <hi>Rev</hi> 12.7</note> and how God did heretofore ſtir up ſome of his People (both in <hi>England</hi> and <hi>Scotland</hi>) to bear witneſſe (to the truth and wayes of God) againſt the wayes and wickedneſſes of men) as a fore-lorn hope; though they were in compariſon but a few; like <hi>Joſhuah</hi> and <hi>Caleb,</hi> two of twelve;<note place="margin">
+                  <hi>Numb.</hi> 14.6, 7, 8, 9. <hi>Rev.</hi> 7.3.2 <hi>Pet.</hi> 1.12.</note> or like the two VVitneſſes, a ſmall yet ſufficient number. Obſerving alſo, that there are preſent Truths, and every work being beautifull in its ſeaſon (as in the beginning of the late VVars) was the witneſſing againſt the Book of <hi>Common Prayer, Sur<g ref="char:EOLhyphen"/>pleſſe, Croſſe</hi> in Baptiſme, and other Ceremonies (being ſuperſtitious things, impo<g ref="char:EOLhyphen"/>ſed by the Biſhops) and againſt Ship-money, Monopolyze, <hi>&amp;c.</hi> (civill things) impoſed formerly by the King. All which were afterwards Declared, Proteſted and Covenanted againſt; which Proteſtation and Covenant are freſh in the memories, and preſſing upon the Conſciences of ſome of us, even unto this day: Beſides the Engagement, and the ſeverall Acts of Parliament, made againſt Monarchy or Kingly government; all which now ſeem to be forgotten or neglected and thoſe that ſpeak or write in defence of ſuch things, as the Parliament, Army, and the Godly People in the Three Nations approved, aſſerted and purchaſed at a dear rate, are now accounted fanatick fools, diſturbers of Civil States, and intermedlers in things that concern them not; under which notion many ſuffer impriſonment, and other tryals, as evill doers from thoſe men, who now build what they did once deſtroy;<note place="margin">
+                  <hi>Aug.</hi> 1.1650. <hi>pag.</hi> 7, 12.</note> and juſtifie what they did once condemn. VVitneſſe their own VVritings, particu<g ref="char:EOLhyphen"/>larly the Declaration of the Officers and Souldiers of the Engliſh Army (whereof
+<pb n="4" facs="tcp:168352:3"/>the Lord <hi>Cromwell</hi> was General) the words whereof are as followeth.</p>
+            <p>
+               <hi>We are perſwaded in our Conſciences that the late King and his Monarchy was one of the ten horns of the Beaſt ſpoken of,</hi> Rev. 17. verſ. 13, 14, 15. <hi>And that we were called forth by the Lord to be inſtrument all to bring about that which was our continuall Prayers unto God,</hi> viz. <hi>The deſtruction of Antichriſt, and the deliverance of his Church and people; and upon this ſingle account we engaged, not knowing the deep Pollicies of worldly States men, and have ever ſince hazarded our lives in the high places of the Field (where we have ſeen many wonders of the Lord) againſt all the oppoſers of the work of Jeſus Chriſt, whom we have all along ſeen going with us, and making our way plain before us; and having theſe things ſingly in our eye, namely the deſtruction of Antichriſt, the advancement of the Kingdome of Chriſt, the deliverance of his Church; and the eſtabliſhment thereof, in the uſe of his Ordi<g ref="char:EOLhyphen"/>nances, in purity according to his word, and the juſt, civill, Liberties of Engliſh<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>Theſe with many other expreſſions, both in the Declaration and ſeverall other Papers of the Army,<note place="margin">Saunders, Okey, <hi>and</hi> Allured.</note> and Letters of the General, cited both in the Declaration of the Members of ſeverall Churches, and Petitions of the Three Colonels; beſides ſeveral other Papers which might be inſtanced in; which we leave to all unbyaſſed men to conſider; and compare with actions done by the ſame men ſince that time: but in purſuance of our duty to God, our fellow members and Countrymen, as we are Chriſtians, having a right to the things of Chriſt; and as we are men, having a Right to our native Priviledges: We do Declare our reall Apprehenſions and Conſciences (which to the great grief of ſome of us) we have ſo long concealed, waiting if God might by his Providence alter our mindes.</p>
+            <p>Firſt, That the ſins and preſent condition of this Nation holds parallel in many things with the old Iſraelites after the mighty wonders of God, ſhewed unto them in their great deliverance out of Ægypt.<note place="margin">
+                  <hi>Pſal.</hi> 136.13.</note> For inſtance: They and we have ſoon forgotten God our Saviour, and the great works which he did; we have not ſet our hearts aright, and our ſpirits have net been ſtedfaſt with God, but have gone back, and dealt treacherouſly, and turned aſide like a deceiptfull bow; and not truſting to his ſalvation,<note place="margin">
+                  <hi>Pſal.</hi> 78.8, 9.10. <hi>Pſal.</hi> 106.28, 29. <hi>Neb.</hi> 9, 3.7</note> have provoked the Lord to anger with our inventions; ſo that men have dominion over bodies, and over our Cattle at their pleaſure. And we are in great diſtreſſe, for this is a day of trouble, and of Blaſphemy, for the children are come to the Birth, and there is not ſtrength to bring forth.</p>
+            <p>Secondly, That bleſſed Cauſe, and thoſe noble Principles propounded, and pro<g ref="char:EOLhyphen"/>ſecuted by the old Parliament, and the good People of this Nation (in the maintain<g ref="char:EOLhyphen"/>ing of which God did miraculouſly appear) are now altogether laid aſide and loſt; and another cauſe and intereſt (quite contrary as we conceive) eſpouſed and main<g ref="char:EOLhyphen"/>tained; For then the advancement of Chriſts Kingdome, the extirpation of Po<g ref="char:EOLhyphen"/>pery, and popiſh Innovations, the Priviledges of Parliament, the Liberty of the Subjects, and an equall diſtinction of Juſtice were Declared and fought for; and Tyranny, Oppreſſion, Injuſtice, Arbitraryneſſe; Deſtroying the Priviledges of Parliaments we Declared and Engaged againſt: But how far ſome men have now receded from, and acted contrarily to the diſhonour of God, ſcandall of Religion, great grief of many faithfull men, and the ſtrengthening of the wicked in their principles, and juſtifying their practices, we leave to the conſideration of all thoſe that are ſober and wiſe.</p>
+            <pb n="5" facs="tcp:168352:3"/>
+            <p>Thirdly, Moreover the unadviſed and unwarrantable changing of the Govern<g ref="char:EOLhyphen"/>ment and ſwearing thereunto, doth (as we judge) put a neceſſity upon the chief undertaker thereof to overthrow the very foundation of a Common-wealth: and to maintaine the things compriſed in the ſaid Inſtrument (whether right or wrong) and to turn the very edge and dint of his Sword againſt the faces and bowels of ſuch as ſhould or ſhall declare their conſciences contrary thereunto.</p>
+            <p>Fourthly, As a conſequence and fruit of this forbidden Tree, many of the choice ſervants of God and faithfull of the Nation (ſome Noblemen, Gentlemen, Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, Souldiers, <hi>&amp;c.</hi>) are impriſoned without knowing their accuſers or having ſo much liberty as was granted by the Heathens to the Apoſtles, or the benefit of a fair and publique tryall, according to the ſundamentall laws of this Nation.</p>
+            <p>Fiftly, Under pretence of neceſſity ſtill to continue the heavy burdens of Taxes, Cuſtoms, Exciſe, <hi>&amp;c.</hi> upon the Nation, without (yea contrary to) the Conſent of the People repreſented in Parliament, and contrary to their own INSTRU<g ref="char:EOLhyphen"/>MENT.</p>
+            <p>Sixtly, Notwithſtanding all the fair pretences and promiſes of Reformation; yet what abhominable and horrible Impieties, Injuſtice and Oppreſſion are there cou<g ref="char:EOLhyphen"/>ched and covered under this new Form, from the Head to the Taile (as the Pro<g ref="char:EOLhyphen"/>phet ſaith) treading in the very foot ſteps of their Predeceſſors;<note place="margin">
+                  <hi>Act.</hi> 27.30.</note> witneſſe the re<g ref="char:EOLhyphen"/>ceiving of the Honours, Profits, Cuſtoms, Benefits, Tenths, and Firſt-fruits com<g ref="char:EOLhyphen"/>ming in formerly to the Crown; the exalting of Sons, Servants, Friends and Fa<g ref="char:EOLhyphen"/>vourites (though ſome of them known to be wicked men) to the higheſt places and greateſt preferment, which the good Rulers of old, as <hi>Gideon, Nehemiah</hi> and others did not do; becauſe of the fear of the Lord, and the Bondage that was heavy upon the people: Witneſle alſo the unreaſonableneſſe of the Army to have ſo many Officers, which might eaſily be reduced to a leſſer number, and both Of<g ref="char:EOLhyphen"/>ficers and Souldiers for many years to receive their pay (even in a time of peace) when the poore Peaſants or Tenants (who pay but ten ſhilling rent <hi>per Annum</hi>) doe pay out of their penury, to maintain them in their pompe and luxury.</p>
+            <p>Seventhly, VVe cannot without grief mention the ſad effects of the ſecret de<g ref="char:EOLhyphen"/>ſigne of <hi>Hiſpaniola,</hi> to be the loſſe of ſo many mens lives, the expence of ſo much blood and treaſure, and the endangering of this Common-wealth by Invaſion; as alſo thereby rendring us a ſcorn and ſnuffe to the Nations round about.</p>
+            <p>Laſtly, We do declare and publiſh to all from our very hearts and ſouls, that thoſe of us that had any hand in joyning with the Parliament and Army heretofore, had no other deſigne againſt the late King and his Party, ſave as they were ene<g ref="char:EOLhyphen"/>mies to our Lord Chriſt, his Kingdome and people, hinderers of his work, and oppreſſors of the Nation, and that it never came into our hearts to think or intend the pulling down of one perſon to ſet up another; or, one unrighteous power to promote another: but we aymed as primarily at the glory of God; ſo likewiſe at the generall good of the Nation, and particular benefit and juſt liberty of every man; and it greives us, that any juſt cauſe is given them to ſtumble at Profeſſors, or complain that they are deprived of their Freedome, and ſeverall wayes more oppreſſed, then in the dayes of the wickedeſt Kings; we do alſo believe in our heart, that (though the worſt things are not without Gods permiſſion and provi<g ref="char:EOLhyphen"/>dence) yet that this Government is not of Gods approbation, or taken up by his Counſell, or according to his Word; And therefore We do utterly Diſclaime ha<g ref="char:EOLhyphen"/>ving
+<pb n="6" facs="tcp:168352:4"/>any hand or heart in it, and for the Contrivers and undertakers thereof, we ſuſpect and judge them to be great tranſgreſſors therein; and ſo much the more, becauſe they are Profeſſors of Religion, and Declarers, Engagers, and fighters a<g ref="char:EOLhyphen"/>gainſt the very things they now practice: And it is moſt evident to us, that they there by build again, what before they did deſtroy; and in ſo doing they render themſelves and the Cauſe, Religion, Name and People of God abominable to Hea<g ref="char:EOLhyphen"/>thens, Papiſts and prophane Enemies, which is a grief to our Souls to conſider. We doe alſo deteſt the practices of theſe men in impriſoning the Saints of God, for their Conſciences and Teſtimony, and juſt men; who ſtand for morall and juſt principles, and the freedome of the Nation and People; and their breaking off Parliaments to effect their own Deſigne. We do alſo from our Souls Witneſſe a<g ref="char:EOLhyphen"/>gainſt their new Modelling of Miniſters (as Antichriſtian) and keeping up Pa<g ref="char:EOLhyphen"/>riſhes and Tythes (as Popiſh Innovations.) And we Diſclaime all adherence to, owning of, or joyning with theſe men in their wayes. And do withdraw, and de<g ref="char:EOLhyphen"/>ſire all the Lords people to withdraw from theſe men, as thoſe that are guilty of the ſins of the later dayes;<note place="margin">2 <hi>Tim.</hi> 3.5.</note> and that have left following the Lord, and that Gods people ſhould avoid their ſin; leaſt they partake with them in their plagues: Thus concluding our Teſtimony, We Subſcribe our Names hereunto.</p>
+            <list>
+               <item>
+                  <hi>William Jones.</hi>
+               </item>
+               <item>
+                  <hi>John Morgan.</hi>
+               </item>
+               <item>
+                  <hi>John Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Evan Jones.</hi>
+               </item>
+               <item>
+                  <hi>John Phillips.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Jones.</hi>
+               </item>
+               <item>
+                  <hi>John Beevan.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Lewis.</hi>
+               </item>
+               <item>
+                  <hi>Gabriel Lewis.</hi>
+               </item>
+               <item>
+                  <hi>Howell Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Phillips.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Howels.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam VVaters.</hi>
+               </item>
+               <item>
+                  <hi>Howell John.</hi>
+               </item>
+               <item>
+                  <hi>John Price.</hi>
+               </item>
+               <item>
+                  <hi>Meredith Phillips.</hi>
+               </item>
+               <item>
+                  <hi>William Jenkins.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Proſſer.</hi>
+               </item>
+               <item>
+                  <hi>Jenkin Griffith.</hi>
+               </item>
+               <item>
+                  <hi>Howell Williams.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Williams.</hi>
+               </item>
+               <item>
+                  <hi>Richard Howell.</hi>
+               </item>
+               <item>
+                  <hi>Watkin Price.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Powell.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Powell.</hi>
+               </item>
+               <item>
+                  <hi>Lewis VVilliams.</hi>
+               </item>
+               <item>
+                  <hi>Lewis Reece.</hi>
+               </item>
+               <item>
+                  <hi>Reece Iohn.</hi>
+               </item>
+               <item>
+                  <hi>Howell Reece.</hi>
+               </item>
+               <item>
+                  <hi>Richard John.</hi>
+               </item>
+               <item>
+                  <hi>Richard Price.</hi>
+               </item>
+               <item>
+                  <hi>John David.</hi>
+               </item>
+               <item>
+                  <hi>David Morgan.</hi>
+               </item>
+               <item>
+                  <hi>Morgan William.</hi>
+               </item>
+               <item>
+                  <hi>Morgan Robert.</hi>
+               </item>
+               <item>
+                  <hi>John VVilliam.</hi>
+               </item>
+               <item>
+                  <hi>Lewis David.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Edwards.</hi>
+               </item>
+               <item>
+                  <hi>Reece John.</hi>
+               </item>
+               <item>
+                  <hi>Jenkin Jones.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Iones.</hi>
+               </item>
+               <item>
+                  <hi>Jenkin Roſſer.</hi>
+               </item>
+               <item>
+                  <hi>Rice Roſſer.</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Griffiths.</hi>
+               </item>
+               <item>
+                  <hi>Lewelin Beevan.</hi>
+               </item>
+               <item>
+                  <hi>James Powell.</hi>
+               </item>
+               <item>
+                  <hi>Mirick Morgan.</hi>
+               </item>
+               <item>
+                  <hi>Evan Meredith.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Jones.</hi>
+               </item>
+               <item>
+                  <hi>Meredith Rees.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Edward.</hi>
+               </item>
+               <item>
+                  <hi>Richard Roberts.</hi>
+               </item>
+               <item>
+                  <hi>Lewis David.</hi>
+               </item>
+               <item>
+                  <hi>Morgan John.</hi>
+               </item>
+               <item>
+                  <hi>Richard Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Meredith VVilliam.</hi>
+               </item>
+               <item>
+                  <hi>Witkin Rice.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam VVatkin.</hi>
+               </item>
+               <item>
+                  <hi>Reece David.</hi>
+               </item>
+               <item>
+                  <hi>VVatkin David.</hi>
+               </item>
+               <item>
+                  <hi>David William.</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Phillips.</hi>
+               </item>
+               <item>
+                  <hi>John VVilliams.</hi>
+               </item>
+               <item>
+                  <hi>Henry Thomas.</hi>
+               </item>
+               <item>
+                  <hi>John Jones.</hi>
+               </item>
+               <item>
+                  <hi>John Farmer.</hi>
+               </item>
+               <item>
+                  <hi>Henry Meredith.</hi>
+               </item>
+               <item>
+                  <hi>Trehern Morgan.</hi>
+               </item>
+               <item>
+                  <hi>Richard David.</hi>
+               </item>
+               <item>
+                  <hi>Evan John.</hi>
+               </item>
+               <item>
+                  <hi>Edward Evan.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Evan.</hi>
+               </item>
+               <item>
+                  <hi>David Evan.</hi>
+               </item>
+               <item>
+                  <hi>Howell VVaters.</hi>
+               </item>
+               <item>
+                  <hi>Jenkin VVaters.</hi>
+               </item>
+               <pb n="7" facs="tcp:168352:4"/>
+               <item>
+                  <hi>John Howell.</hi>
+               </item>
+               <item>
+                  <hi>Phillip David</hi>
+               </item>
+               <item>
+                  <hi>Rice Richard</hi>
+               </item>
+               <item>
+                  <hi>Edward Matthews.</hi>
+               </item>
+               <item>
+                  <hi>Watkin Richard</hi>
+               </item>
+               <item>
+                  <hi>Thomas Evan.</hi>
+               </item>
+               <item>
+                  <hi>Lewelin Jenkin.</hi>
+               </item>
+               <item>
+                  <hi>Jenkin William</hi>
+               </item>
+               <item>
+                  <hi>Thomas VVilliam</hi>
+               </item>
+               <item>
+                  <hi>Evan Lew lin</hi>
+               </item>
+               <item>
+                  <hi>John Lewis</hi>
+               </item>
+               <item>
+                  <hi>William VVaters</hi>
+               </item>
+               <item>
+                  <hi>Morgan David</hi>
+               </item>
+               <item>
+                  <hi>John David</hi>
+               </item>
+               <item>
+                  <hi>David VValter</hi>
+               </item>
+               <item>
+                  <hi>Reece Jones</hi>
+               </item>
+               <item>
+                  <hi>Phillip Jones</hi>
+               </item>
+               <item>
+                  <hi>Jervice Jones</hi>
+               </item>
+               <item>
+                  <hi>Edward Jenkins</hi>
+               </item>
+               <item>
+                  <hi>Watkin Jenkins</hi>
+               </item>
+               <item>
+                  <hi>David Thomas</hi>
+               </item>
+               <item>
+                  <hi>Rice Jones</hi>
+               </item>
+               <item>
+                  <hi>Evan John</hi>
+               </item>
+               <item>
+                  <hi>David William</hi>
+               </item>
+               <item>
+                  <hi>Henry Williams</hi>
+               </item>
+               <item>
+                  <hi>John Bedward</hi>
+               </item>
+               <item>
+                  <hi>Thomas Tunman</hi>
+               </item>
+               <item>
+                  <hi>Robert Tunman</hi>
+               </item>
+               <item>
+                  <hi>Roger Griffi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Morgan</hi>
+               </item>
+               <item>
+                  <hi>William Price</hi>
+               </item>
+               <item>
+                  <hi>David Davies</hi>
+               </item>
+               <item>
+                  <hi>David Price</hi>
+               </item>
+               <item>
+                  <hi>Richard Morris</hi>
+               </item>
+               <item>
+                  <hi>John Evans</hi>
+               </item>
+               <item>
+                  <hi>David Powell</hi>
+               </item>
+               <item>
+                  <hi>Walter Lewis</hi>
+               </item>
+               <item>
+                  <hi>Richard Meredith</hi>
+               </item>
+               <item>
+                  <hi>William Morris</hi>
+               </item>
+               <item>
+                  <hi>James Haydock</hi>
+               </item>
+               <item>
+                  <hi>William Boſtock</hi>
+               </item>
+               <item>
+                  <hi>Phillip Ruſſell</hi>
+               </item>
+               <item>
+                  <hi>Edward Williams</hi>
+               </item>
+               <item>
+                  <hi>James Morgan</hi>
+               </item>
+               <item>
+                  <hi>David Rutherch</hi>
+               </item>
+               <item>
+                  <hi>William Bayes</hi>
+               </item>
+               <item>
+                  <hi>Reece Jones</hi>
+               </item>
+               <item>
+                  <hi>Richard James</hi>
+               </item>
+               <item>
+                  <hi>William Hopkins</hi>
+               </item>
+               <item>
+                  <hi>Lewis Jones</hi>
+               </item>
+               <item>
+                  <hi>William Watkins</hi>
+               </item>
+               <item>
+                  <hi>Richard Mils</hi>
+               </item>
+               <item>
+                  <hi>John Thomas</hi>
+               </item>
+               <item>
+                  <hi>John Smith</hi>
+               </item>
+               <item>
+                  <hi>William Price</hi>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>avoſor Powell</hi>
+               </item>
+               <item>
+                  <hi>John Williams</hi>
+               </item>
+               <item>
+                  <hi>John Hammer</hi>
+               </item>
+               <item>
+                  <hi>Moris Griffith</hi>
+               </item>
+               <item>
+                  <hi>Edward Owens</hi>
+               </item>
+               <item>
+                  <hi>Richard Griffith</hi>
+               </item>
+               <item>
+                  <hi>Walter Davies</hi>
+               </item>
+               <item>
+                  <hi>Thomas Gwin</hi>
+               </item>
+               <item>
+                  <hi>Thomas <g ref="char:V">Ʋ</g>aughan</hi>
+               </item>
+               <item>
+                  <hi>John Powell</hi>
+               </item>
+               <item>
+                  <hi>Rees Havard</hi>
+               </item>
+               <item>
+                  <hi>Roger Thomas</hi>
+               </item>
+               <item>
+                  <hi>Thomas Lewis</hi>
+               </item>
+               <item>
+                  <hi>John Watkin</hi>
+               </item>
+               <item>
+                  <hi>VValter Lewis</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Thomas</hi>
+               </item>
+               <item>
+                  <hi>William Lewis</hi>
+               </item>
+               <item>
+                  <hi>Richard <g ref="char:V">Ʋ</g>aughan</hi>
+               </item>
+               <item>
+                  <hi>David Jones</hi>
+               </item>
+               <item>
+                  <hi>Rice Thomas</hi>
+               </item>
+               <item>
+                  <hi>Henry Thomas</hi>
+               </item>
+               <item>
+                  <hi>John Williams</hi>
+               </item>
+               <item>
+                  <hi>Thomas Powell</hi>
+               </item>
+               <item>
+                  <hi>John David</hi>
+               </item>
+               <item>
+                  <hi>Iohn Rowbuck</hi>
+               </item>
+               <item>
+                  <hi>Evan Watkin</hi>
+               </item>
+               <item>
+                  <hi>Charls Lloyd</hi>
+               </item>
+               <item>
+                  <hi>Hugh Thomas</hi>
+               </item>
+               <item>
+                  <hi>Roſſer Watkin</hi>
+               </item>
+               <item>
+                  <hi>Thomas Griffith</hi>
+               </item>
+               <item>
+                  <hi>Lewis Price</hi>
+               </item>
+               <item>
+                  <hi>Morgan Lloyd</hi>
+               </item>
+               <item>
+                  <hi>William Thomas</hi>
+               </item>
+               <item>
+                  <hi>Lewis Iames</hi>
+               </item>
+               <item>
+                  <hi>Iohn Thomas</hi>
+               </item>
+               <item>
+                  <hi>Robert Thomas</hi>
+               </item>
+               <item>
+                  <hi>Howell Watkin</hi>
+               </item>
+               <item>
+                  <hi>Thomas Priee</hi>
+               </item>
+               <item>
+                  <hi>Roger Williams</hi>
+               </item>
+               <item>
+                  <hi>Iohn Baddam</hi>
+               </item>
+               <item>
+                  <hi>Iohn Powell</hi>
+               </item>
+               <item>
+                  <hi>David Roberts</hi>
+               </item>
+               <item>
+                  <hi>Iohn Pugh</hi>
+               </item>
+               <item>
+                  <hi>Thomas Parry</hi>
+               </item>
+               <item>
+                  <hi>Howell Williams</hi>
+               </item>
+               <item>
+                  <hi>Walter Price</hi>
+               </item>
+               <item>
+                  <hi>William Bevan</hi>
+               </item>
+               <item>
+                  <hi>Lewis Prytherch</hi>
+               </item>
+               <item>
+                  <hi>David William</hi>
+               </item>
+               <item>
+                  <hi>Lewclin ap Iohn</hi>
+               </item>
+               <item>
+                  <hi>Ienkin Griffith</hi>
+               </item>
+               <item>
+                  <hi>Peter Chidlowe</hi>
+               </item>
+               <item>
+                  <hi>Arthur Chidlow</hi>
+               </item>
+               <item>
+                  <hi>William Iones</hi>
+               </item>
+               <item>
+                  <hi>Owen Humphrey</hi>
+               </item>
+               <item>
+                  <hi>Evan Thomas</hi>
+               </item>
+               <item>
+                  <hi>Samuel Brees</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lewis</hi>
+               </item>
+               <item>
+                  <hi>William Beatſley</hi>
+               </item>
+               <item>
+                  <hi>Thomas Morgans</hi>
+               </item>
+               <item>
+                  <hi>Iohn Symonds</hi>
+               </item>
+               <item>
+                  <hi>William Beddoes</hi>
+               </item>
+               <item>
+                  <hi>Morris Williams</hi>
+               </item>
+               <item>
+                  <hi>Iames Williams</hi>
+               </item>
+               <item>
+                  <hi>William Matthews</hi>
+               </item>
+               <item>
+                  <hi>Lewis Price</hi>
+               </item>
+               <item>
+                  <hi>Evan Ellis</hi>
+               </item>
+               <item>
+                  <hi>Richard Tudge</hi>
+               </item>
+               <item>
+                  <hi>William Fernell</hi>
+               </item>
+               <item>
+                  <hi>Edward Gretholder</hi>
+               </item>
+               <item>
+                  <hi>Iohn Tomkins</hi>
+               </item>
+               <item>
+                  <hi>Thomas Tudge</hi>
+               </item>
+               <item>
+                  <hi>Hugh Evans</hi>
+               </item>
+               <item>
+                  <hi>Owen Lewis</hi>
+               </item>
+               <item>
+                  <hi>Owen Iones</hi>
+               </item>
+               <item>
+                  <hi>Edward Brees</hi>
+               </item>
+               <item>
+                  <hi>Ralph Robothom</hi>
+               </item>
+               <item>
+                  <hi>William Lewis</hi>
+               </item>
+               <item>
+                  <hi>Iohn Powell</hi>
+               </item>
+               <item>
+                  <hi>David Kadwalader</hi>
+               </item>
+               <item>
+                  <hi>Rowland Tudge</hi>
+               </item>
+               <item>
+                  <hi>David Evan</hi>
+               </item>
+               <item>
+                  <hi>Iohn Tibbots</hi>
+               </item>
+               <item>
+                  <hi>Samuell VVilliams</hi>
+               </item>
+               <item>
+                  <hi>Richard Bromley</hi>
+               </item>
+               <item>
+                  <hi>Richard Baxter</hi>
+               </item>
+               <item>
+                  <hi>John Crowther</hi>
+               </item>
+               <item>
+                  <hi>Francis Maſon</hi>
+               </item>
+               <item>
+                  <hi>Iohn Evans</hi>
+               </item>
+               <item>
+                  <hi>David Phillips</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Evans</hi>
+               </item>
+               <item>
+                  <hi>Thomas Ellis</hi>
+               </item>
+               <item>
+                  <hi>Thomas Crowther</hi>
+               </item>
+               <item>
+                  <hi>Thomas Fernelb</hi>
+               </item>
+               <item>
+                  <hi>Richard Iriſh</hi>
+               </item>
+               <item>
+                  <hi>Henry Iones</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Phipps</hi>
+               </item>
+               <item>
+                  <hi>William Becket</hi>
+               </item>
+               <item>
+                  <hi>Daniel Brees</hi>
+               </item>
+               <item>
+                  <hi>Francis Hanckock</hi>
+               </item>
+               <item>
+                  <hi>Edward Iriſh</hi>
+               </item>
+               <item>
+                  <hi>Oliver David</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Dabellis</hi>
+               </item>
+               <item>
+                  <hi>Lewis Pugh</hi>
+               </item>
+               <item>
+                  <hi>Richard Rogers</hi>
+               </item>
+               <item>
+                  <hi>Owen Iones</hi>
+               </item>
+               <item>
+                  <hi>Edmund Roſſer</hi>
+               </item>
+               <item>
+                  <hi>Iohn Meredith</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Thomas</hi>
+               </item>
+               <item>
+                  <hi>Llewelin Lewis</hi>
+               </item>
+               <item>
+                  <hi>Iohn Rowland</hi>
+               </item>
+               <item>
+                  <hi>Lewis VVilliams</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Lewis</hi>
+               </item>
+               <item>
+                  <hi>Edward VVilliams</hi>
+               </item>
+               <item>
+                  <hi>Howell Rees</hi>
+               </item>
+               <item>
+                  <hi>Kowland Morgan</hi>
+               </item>
+               <item>
+                  <hi>Phillip Gyles</hi>
+               </item>
+               <item>
+                  <hi>Iames Watkins</hi>
+               </item>
+               <item>
+                  <hi>Iohn Iames</hi>
+               </item>
+               <item>
+                  <hi>Lewis Iones</hi>
+               </item>
+               <item>
+                  <hi>Michael Watkins</hi>
+               </item>
+               <item>
+                  <hi>Edmund Morgan</hi>
+               </item>
+               <item>
+                  <hi>Roſſer Thomas</hi>
+               </item>
+               <item>
+                  <hi>Iohn Roſser</hi>
+               </item>
+               <item>
+                  <hi>Thomas Iohn</hi>
+               </item>
+               <item>
+                  <hi>Iames Iohn</hi>
+               </item>
+               <item>
+                  <hi>Elias Thomas</hi>
+               </item>
+               <item>
+                  <hi>Iohn Howell</hi>
+               </item>
+               <item>
+                  <hi>William Iohn</hi>
+               </item>
+               <pb n="8" facs="tcp:168352:5" rendition="simple:additions"/>
+               <item>
+                  <hi>Roſſer Watkin</hi>
+               </item>
+               <item>
+                  <hi>Daniel John</hi>
+               </item>
+               <item>
+                  <hi>Thomas ap John</hi>
+               </item>
+               <item>
+                  <hi>Gilbert Morris</hi>
+               </item>
+               <item>
+                  <hi>Matthew Prichard</hi>
+               </item>
+               <item>
+                  <hi>Edward Jones</hi>
+               </item>
+               <item>
+                  <hi>Owen Edward</hi>
+               </item>
+               <item>
+                  <hi>David Thomas</hi>
+               </item>
+               <item>
+                  <hi>John Pugh</hi>
+               </item>
+               <item>
+                  <hi>Howell Thomas</hi>
+               </item>
+               <item>
+                  <hi>Reece ap David</hi>
+               </item>
+               <item>
+                  <hi>John Benan</hi>
+               </item>
+               <item>
+                  <hi>Thomas Lloyd</hi>
+               </item>
+               <item>
+                  <hi>Kenrick Jones</hi>
+               </item>
+               <item>
+                  <hi>James Quarrell</hi>
+               </item>
+               <item>
+                  <hi>Enward Williams</hi>
+               </item>
+               <item>
+                  <hi>Edward Moore</hi>
+               </item>
+               <item>
+                  <hi>John Roberts</hi>
+               </item>
+               <item>
+                  <hi>John Brown</hi>
+               </item>
+               <item>
+                  <hi>Alexander Powell</hi>
+               </item>
+               <item>
+                  <hi>Hugh Powell</hi>
+               </item>
+               <item>
+                  <hi>John Nicholas</hi>
+               </item>
+               <item>
+                  <hi>Phillip Williams</hi>
+               </item>
+               <item>
+                  <hi>Robert Sanctley</hi>
+               </item>
+               <item>
+                  <hi>John James</hi>
+               </item>
+               <item>
+                  <hi>Edward Roberts</hi>
+               </item>
+               <item>
+                  <hi>Walter Thimbleton.</hi>
+               </item>
+               <item>
+                  <hi>John Fowler</hi>
+               </item>
+               <item>
+                  <hi>Hugh Prichard</hi>
+               </item>
+               <item>
+                  <hi>Henry Williams</hi>
+               </item>
+               <item>
+                  <hi>William Win</hi>
+               </item>
+               <item>
+                  <hi>Richard Saltonſtall</hi>
+               </item>
+               <item>
+                  <hi>Rice Jones</hi>
+               </item>
+               <item>
+                  <hi>Richard Williams</hi>
+               </item>
+               <item>
+                  <hi>Phillip Rogers</hi>
+               </item>
+               <item>
+                  <hi>Riohard Roberts</hi>
+               </item>
+               <item>
+                  <hi>Thomas ap Thomas</hi>
+               </item>
+               <item>
+                  <hi>Ellice ap Roger</hi>
+               </item>
+               <item>
+                  <hi>David ap Edward</hi>
+               </item>
+               <item>
+                  <hi>David Lloyd</hi>
+               </item>
+               <item>
+                  <hi>Thomas Edwards</hi>
+               </item>
+               <item>
+                  <hi>Francis Lith</hi>
+               </item>
+               <item>
+                  <hi>James Park</hi>
+               </item>
+               <item>
+                  <hi>Iohn Meredith</hi>
+               </item>
+               <item>
+                  <hi>Iohn Owens</hi>
+               </item>
+               <item>
+                  <hi>William Iennings</hi>
+               </item>
+               <item>
+                  <hi>George Ienkins</hi>
+               </item>
+               <item>
+                  <hi>William Heatley</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lewis</hi>
+               </item>
+               <item>
+                  <hi>David Iones</hi>
+               </item>
+               <item>
+                  <hi>Ieffrey Parry</hi>
+               </item>
+               <item>
+                  <hi>Iohn Hughes</hi>
+               </item>
+               <item>
+                  <hi>Iohn Evans</hi>
+               </item>
+               <item>
+                  <hi>Richard Iones</hi>
+               </item>
+               <item>
+                  <hi>William Rider</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ratlieffe</hi>
+               </item>
+               <item>
+                  <hi>William Iones</hi>
+               </item>
+               <item>
+                  <hi>Ralph Hopley</hi>
+               </item>
+               <item>
+                  <hi>Hugh Price</hi>
+               </item>
+               <item>
+                  <hi>Griffith Iones</hi>
+               </item>
+               <item>
+                  <hi>Brian Sixſmith</hi>
+               </item>
+               <item>
+                  <hi>Mathaniel Edwards</hi>
+               </item>
+               <item>
+                  <hi>Iohn Meredith</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A POSTSCRIPE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THis paper had ſooner come into thy hands, if the Subſcribers hereof (who were willing to do nothing raſhly) had not waited for further Councel and direction from God herein then they had at their firſt intention of the publiſhing hereof, and withall it was deferred for a time,<note place="margin">
+                  <hi>Rev.</hi> 2.21.</note> hoping that God might ſome other way con<g ref="char:EOLhyphen"/>vince the Perſon chiefely concerned in it; and ſeeing God gave him time to repent, and yet he repented not, we have publiſhed this our Teſtimony. To which you might have had many more Subſcribers (who were willing to own this Paper) if conveni<g ref="char:EOLhyphen"/>ency and Providence had made way for it to come into their view: There hath been great endeavours to ſtifle it in the Birth; to that end, ſome of the Subſcribers were threatned with impriſonment, and Orders were iſſued out to impriſon ſome (where<g ref="char:EOLhyphen"/>of one was ſecured) namely Mr. <hi>Vavaſor Powell,</hi> who was taken by a company of Souldiers, from a day of Faſting and Prayer at <hi>Aberbechan</hi> in <hi>Mountgomory</hi> ſhire, where many Saints were gathered together, which cauſed much ſadneſſe, yea and much heart breakings to them all; and he remained for ſome time a priſoner upon that account.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
